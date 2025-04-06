@@ -9,6 +9,8 @@ body{
 h1{
     color:hsl(0, 0%, 100%);
     font-family: Roboto;
+    border: 2px dashed blue;
+    border-radius: 5px;
 }
 p{
     color:hsl(0, 0%, 100%);
@@ -16,5 +18,9 @@ p{
     font-size: 20px;
     font-weight: bold;
     font-style: italic;
+    border-bottom: 2px solid red;
+    border-right: 2px solid orange;
+    border-top: 2px solid yellow;
+    border-left: 2px solid green;
 
 }
