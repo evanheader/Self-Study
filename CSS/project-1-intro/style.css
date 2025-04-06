@@ -1,18 +1,20 @@
-#p1{
-    color:red
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto-VariableFont_wdth,wght.ttf);
 }
-#p2{
-    color:rgb(255, 165, 0)
+
+body{
+    background-color: hsl(0, 0%, 50%);
 }
-#p3{
-    color:#ffff00
+h1{
+    color:hsl(0, 0%, 100%);
+    font-family: Roboto;
 }
-#p4{
-    color:hsl(120, 100%, 50%)
-}
-#p5{
-    color:blue
-}
-#p6{
-    color:purple
+p{
+    color:hsl(0, 0%, 100%);
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+
 }
