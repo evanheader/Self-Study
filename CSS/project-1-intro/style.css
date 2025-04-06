@@ -2,13 +2,13 @@
     color:red
 }
 #p2{
-    color:orange
+    color:rgb(255, 165, 0)
 }
 #p3{
-    color:yellow
+    color:#ffff00
 }
 #p4{
-    color:green
+    color:hsl(120, 100%, 50%)
 }
 #p5{
     color:blue
