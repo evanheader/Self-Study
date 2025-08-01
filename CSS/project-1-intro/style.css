@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto-VariableFont_wdth,wght.ttf);
+}
+
+body{
+    background-color: #34312D;
+}
+h1{
+    display: inline-block;
+    color:#F3F3F4;
+    font-family: Roboto;
+    text-shadow: 3px 3px 5px #000;
+    border-bottom: 4px solid #7E7F83;
+    border-radius: 1px;
+
+}
+p{
+    color:#F3F3F4;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
